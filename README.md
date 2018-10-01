@@ -2,7 +2,7 @@
 ## Description:
 The purpose of the toolbox is to provide a framework for the tasks characteristic to structural health monitoring (SHM) such as, data acquisition, basic signal processing, system identification in time and frequency domain, modal analysis and damage detection. The toolbox is being developed so that it contains classic SHM routines for educational purposes as well as allows for extensions with advanced routines for the research purposes.
 
-Version v1.1 - Last updated: 28.09.2018, Aalborg University, Contact: msa@civil.aau.dk 
+Version v1.0 - Last updated: 28.09.2018, Aalborg University, Contact: msa@civil.aau.dk 
     
 ## Content of current version:
 Find the detailed documentation inside MATLAB using "help" with a function/class below
@@ -31,5 +31,3 @@ To get started with available examples, run following commands:
 * open ModalModelClassEx1.m
 * open ModalModelClassEx2.m
  
-## Links:
-https://se.mathworks.com/matlabcentral/fileexchange/68923-structural-health-monitoring-toolbox
